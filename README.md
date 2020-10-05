@@ -42,6 +42,8 @@ As it can be seen clearly BERT has outperformed every model.
 - Want to know ore about FastAPI? Check out: https://fastapi.tiangolo.com/
 - Run FastAPI using: http://127.0.0.1:8000/docs
 
+**NOTE: While installing transformers into your system kindly make sure to download the version 2.6.0 and not 3.6. New version gives error.**
+
 **Snapshot of the working FastAPI**  
 ![image](https://user-images.githubusercontent.com/68136798/95124985-f02d2780-0719-11eb-85cc-2e9b1c11eea8.png)
 
