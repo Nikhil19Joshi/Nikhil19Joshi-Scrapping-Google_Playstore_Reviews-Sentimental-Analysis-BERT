@@ -42,4 +42,7 @@ As it can be seen clearly BERT has outperformed every model.
 - Want to know ore about FastAPI? Check out: https://fastapi.tiangolo.com/
 - Run FastAPI using: http://127.0.0.1:8000/docs
 
-**Snapshot of the working FastAPI**
+**Snapshot of the working FastAPI**  
+![image](https://user-images.githubusercontent.com/68136798/95124985-f02d2780-0719-11eb-85cc-2e9b1c11eea8.png)
+
+![image](https://user-images.githubusercontent.com/68136798/95124994-f3c0ae80-0719-11eb-9757-09b1f673d695.png)
