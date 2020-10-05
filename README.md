@@ -17,7 +17,7 @@ This project covers three parts:
 
 ### Part 2: Predicting the Sentiments using Machine Learning models and using BERT
 - Sentiment analysis refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
-- Used NLTK and re(regular expression) for text pre processing.
+- Used NLTK and re(regular expression) for text pre processing. File can be found with name **"Sentiment_analysis_Google_playstore_reviews_.ipynb"**
 - For generating the labels (Sentiments) we have used ratings as a base. For eg.(Ratings 1-2 : Negative | Ratings 3 : Neutral | Ratings 4-5 : Positive)
 - Models applied are ML classification models: Logistic Regression, SVM Classifier, KNN Classifier, Naive Bayes, Random Forest Classifier, Decision Tree Classifier to predict the sentiments.
 - Moreover, to improve the classifier we are training the data using BERT (Bi-directional Encoding Representations from Transformers) transformer through Hugging Face.
