@@ -48,3 +48,9 @@ As it can be seen clearly BERT has outperformed every model.
 ![image](https://user-images.githubusercontent.com/68136798/95124985-f02d2780-0719-11eb-85cc-2e9b1c11eea8.png)
 
 ![image](https://user-images.githubusercontent.com/68136798/95124994-f3c0ae80-0719-11eb-9757-09b1f673d695.png)
+
+### References
+I would like to thank Venelin Valkov from whom I took help while creating this project. Below are the references which I took for this project.  
+https://www.curiousily.com/posts/create-dataset-for-sentiment-analysis-by-scraping-google-play-app-reviews-using-python/
+
+https://github.com/curiousily/Deploy-BERT-for-Sentiment-Analysis-with-FastAPI
